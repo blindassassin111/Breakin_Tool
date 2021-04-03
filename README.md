@@ -1,7 +1,7 @@
 # Breakin_Tool
 Tool to breakin switches inspired by the one seen here: https://www.youtube.com/watch?v=BkM8NjMfSCg
 
-Uses the same motor as shown in his description.
+Uses the same motor as shown in his description. https://www.banggood.com/Machifit-GA12N20-M4100-6V-60RPM12V-200RPM-DC-Speed-Reduction-Gear-Motor-N20-Motor-p-1341687.html?p=PW280230661165201902&cur_warehouse=CN&ID=513675
 
 Install cams rotated 90 degrees from the last one (should have two in each direction)
 
