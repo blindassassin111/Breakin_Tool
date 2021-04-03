@@ -13,3 +13,7 @@ Print list:
 - 4x Cams
 - 2x End Spacers
 - 3x Mid Spacers
+
+Cam lift is only 3.5mm to allow it to be used on switches that bottom out earlier. If you need a bit less you can not put the clips on as far.
+
+REQUIRES DSA KEYCAPS TO OPERATE!!!
