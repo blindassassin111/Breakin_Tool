@@ -5,7 +5,7 @@ Uses the same motor as shown in his description.
 
 Install cams rotated 90 degrees from the last one (should have two in each direction)
 
-You need at least 8 nuts (10 if you want to make the end spacers captive): https://www.mcmaster.com/90695A035/
+You need at least 8 nuts (end spacers only need 1 nut each): https://www.mcmaster.com/90695A035/
 
 Print list:
 - 2x End Caps
